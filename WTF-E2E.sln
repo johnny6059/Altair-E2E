@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generation1", "Generation1", "{66D21E7A-99C9-44B1-80DD-EB6AC7E8F177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperSecrets.Sender", "Generation1\DeveloperSecrets.Sender\DeveloperSecrets.Sender.csproj", "{2D772DEB-C774-4BDE-9B91-9A44494D0FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperSecrets.Receiver", "Generation1\DeveloperSecrets.Receiver\DeveloperSecrets.Receiver.csproj", "{DF64A485-EF7A-4847-B7C7-5F03AF647B99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generation2", "Generation2", "{F84F168E-086B-45BD-9434-F5891FCAF9D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperSecrets.Sender", "Generation2\DeveloperSecrets.Sender\DeveloperSecrets.Sender.csproj", "{DA4CAE83-C12E-4358-AAB3-2651B971A568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperSecrets.Receiver", "Generation2\DeveloperSecrets.Receiver\DeveloperSecrets.Receiver.csproj", "{A53A60F6-0B17-431F-9615-35F2FCFA7B8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generation3", "Generation3", "{7F2D35BF-8FF6-490C-A223-BE5E9AB34C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperSecrets.Sender", "Generation3\DeveloperSecrets.Sender\DeveloperSecrets.Sender.csproj", "{2200118B-0257-495D-BCC6-D363F309E74D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperSecrets.Receiver", "Generation3\DeveloperSecrets.Receiver\DeveloperSecrets.Receiver.csproj", "{24DA89C8-101D-4188-93EE-4E3DCFAC07A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generation4", "Generation4", "{FC974797-8E22-4B2B-91FB-71E34150D3B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperSecrets.Sender", "Generation4\DeveloperSecrets.Sender\DeveloperSecrets.Sender.csproj", "{B05FEB30-A826-4581-8D7E-AA829E3F6952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperSecrets.Receiver", "Generation4\DeveloperSecrets.Receiver\DeveloperSecrets.Receiver.csproj", "{17964CD3-CB88-4A55-AE0C-BED560EAAF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D772DEB-C774-4BDE-9B91-9A44494D0FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D772DEB-C774-4BDE-9B91-9A44494D0FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D772DEB-C774-4BDE-9B91-9A44494D0FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D772DEB-C774-4BDE-9B91-9A44494D0FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF64A485-EF7A-4847-B7C7-5F03AF647B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF64A485-EF7A-4847-B7C7-5F03AF647B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF64A485-EF7A-4847-B7C7-5F03AF647B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF64A485-EF7A-4847-B7C7-5F03AF647B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4CAE83-C12E-4358-AAB3-2651B971A568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4CAE83-C12E-4358-AAB3-2651B971A568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4CAE83-C12E-4358-AAB3-2651B971A568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4CAE83-C12E-4358-AAB3-2651B971A568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53A60F6-0B17-431F-9615-35F2FCFA7B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53A60F6-0B17-431F-9615-35F2FCFA7B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53A60F6-0B17-431F-9615-35F2FCFA7B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53A60F6-0B17-431F-9615-35F2FCFA7B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2200118B-0257-495D-BCC6-D363F309E74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2200118B-0257-495D-BCC6-D363F309E74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2200118B-0257-495D-BCC6-D363F309E74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2200118B-0257-495D-BCC6-D363F309E74D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24DA89C8-101D-4188-93EE-4E3DCFAC07A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DA89C8-101D-4188-93EE-4E3DCFAC07A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DA89C8-101D-4188-93EE-4E3DCFAC07A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DA89C8-101D-4188-93EE-4E3DCFAC07A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05FEB30-A826-4581-8D7E-AA829E3F6952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05FEB30-A826-4581-8D7E-AA829E3F6952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05FEB30-A826-4581-8D7E-AA829E3F6952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05FEB30-A826-4581-8D7E-AA829E3F6952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17964CD3-CB88-4A55-AE0C-BED560EAAF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17964CD3-CB88-4A55-AE0C-BED560EAAF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17964CD3-CB88-4A55-AE0C-BED560EAAF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17964CD3-CB88-4A55-AE0C-BED560EAAF03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2D772DEB-C774-4BDE-9B91-9A44494D0FA2} = {66D21E7A-99C9-44B1-80DD-EB6AC7E8F177}
+		{DF64A485-EF7A-4847-B7C7-5F03AF647B99} = {66D21E7A-99C9-44B1-80DD-EB6AC7E8F177}
+		{DA4CAE83-C12E-4358-AAB3-2651B971A568} = {F84F168E-086B-45BD-9434-F5891FCAF9D5}
+		{A53A60F6-0B17-431F-9615-35F2FCFA7B8D} = {F84F168E-086B-45BD-9434-F5891FCAF9D5}
+		{2200118B-0257-495D-BCC6-D363F309E74D} = {7F2D35BF-8FF6-490C-A223-BE5E9AB34C9B}
+		{24DA89C8-101D-4188-93EE-4E3DCFAC07A8} = {7F2D35BF-8FF6-490C-A223-BE5E9AB34C9B}
+		{B05FEB30-A826-4581-8D7E-AA829E3F6952} = {FC974797-8E22-4B2B-91FB-71E34150D3B3}
+		{17964CD3-CB88-4A55-AE0C-BED560EAAF03} = {FC974797-8E22-4B2B-91FB-71E34150D3B3}
+	EndGlobalSection
+EndGlobal
